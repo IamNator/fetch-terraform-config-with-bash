@@ -1,0 +1,3 @@
+
+run:
+	./module.sh -p .
